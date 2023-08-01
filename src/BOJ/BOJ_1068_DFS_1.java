@@ -3,6 +3,10 @@ package BOJ;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+Reviewed : 2023-08-01
+*/
+
 public class BOJ_1068_DFS_1 {
     // curNode 자식들의 leaf node 개수 저장 (curNode 본인 포함)
     static int dfs (int curNode, int[] leafCnt, ArrayList<Integer> graph[]) {
