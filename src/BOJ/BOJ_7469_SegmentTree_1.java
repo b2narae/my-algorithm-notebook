@@ -1,5 +1,6 @@
 package BOJ;
 /*
+Reviewed : 2023-08-04
 (1) (left, mid) + (mid + 1, right)
 (2) (left, mid - 1) + (mid, right)
 
